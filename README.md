@@ -60,8 +60,8 @@ The application runs offline on Windows and uses file handling (`fstream`) for d
 - sessions.txt
 
 ## Author
-- Name: Anim Boateng Joefred
-- Institution: Accra Technical University
+- Name: Bright Kwabena ofosu
+- Institution: Wisconsin International University
 - Year: 2026
 
 ## Academic Integrity
